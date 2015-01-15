@@ -17,7 +17,7 @@ import backtype.storm.tuple.Fields;
 /**
  * @author xuer
  * @date 2014-9-23 - 上午9:25:56
- * @Description storm trident 自定义state,存储mongodb数据库
+ * @Description storm trident 自定义state, 存储mongodb数据库
  */
 public class MainTopoTrident {
   public static void main(String[] args) throws AlreadyAliveException, InvalidTopologyException,
